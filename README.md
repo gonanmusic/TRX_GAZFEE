@@ -15,8 +15,8 @@ MINIMUM REQUIEREMENT :
 - Windows7 (min) / MacOS BigSur (Min) / Linux (Debian Based & Hat based distrib) 
 - 2Gb RAM or More
 - Python 3.12 (Doesn't work with Python 3.13)
-- Last version of HomeBrew (For Macos)
-- Last version of Tronpy Library
+- Latest version of HomeBrew (For Macos)
+- Latest version of Tronpy Library
 
 HOW TO INSTALL Python : 
 Open your terminal on your computer on your Text Editor like VS code. 
@@ -29,24 +29,18 @@ On Windows :
 
 On MacOS : 
 - Open the Terminal.
-- Install Homebrew by running:
-      - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- Install Homebrew by running: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 - Use Homebrew to install Python: brew install python
-- Verify the installation with:
-      - python3 --version
+- Verify the installation with: python3 --version
 
 On LINUX : 
-- For Debian-based distributions (like Ubuntu):
-      - sudo apt update
-      - sudo apt install python3
-- For Red Hat-based distributions (like CentOS):
-      - sudo yum install python3
+- For Debian-based distributions (like Ubuntu):sudo apt install python3
+- For Red Hat-based distributions (like CentOS): sudo yum install python3
 - Check if it’s installed: python3 --version
 
 
 HOW TO INSTALL TRONPY : 
-- Open a terminal or command prompt, and install the tronpy library:
-      - pip install tronpy
+- Open a terminal or command prompt, and install the tronpy library: pip install tronpy
 
 CHANGE INFOS INTO THE CODE :
 - sender_private_key = "PRIVATE KEY"  # Replace with the private key of the sender's address.
