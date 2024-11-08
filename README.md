@@ -17,10 +17,11 @@ MINIMUM REQUIEREMENT :
 - Python 3.12 (Doesn't work with Python 3.13)
 - Latest version of HomeBrew (For Macos)
 - Latest version of Tronpy Library
+  
 
-HOW TO INSTALL Python : 
-Open your terminal on your computer on your Text Editor like VS code. 
-Install Python package with these commande line. 
+HOW TO INSTALL PYTHON : 
+- Open your terminal on your computer on your Text Editor like VS code. 
+- Install Python package with these commande line.
 
 On Windows : 
 - Download the latest Python installer from python.org.
@@ -41,6 +42,7 @@ On LINUX :
 
 HOW TO INSTALL TRONPY : 
 - Open a terminal or command prompt, and install the tronpy library: pip install tronpy
+
 
 CHANGE INFOS INTO THE CODE :
 - sender_private_key = "PRIVATE KEY"  # Replace with the private key of the sender's address.
