@@ -1,4 +1,4 @@
-# TRX_GazFee_SCAM
+# TRX_GasFee_SCAM
 
 With this Python script you will be able understand how TRX Gaz Fee SCAM Works on a TestNet. 
 
