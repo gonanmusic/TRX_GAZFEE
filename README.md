@@ -47,6 +47,9 @@ CHANGE INFOS INTO THE CODE :
 - sender_address = "SENDER ADRESS"  # Replace with the TRX address of the sender.
 - receiver_address = "YOUR ADRESS"  # Replace with your own adress
 
+![Capture d’écran 2024-11-08 à 11 09 44](https://github.com/user-attachments/assets/41c8ba99-755b-4076-9465-967d22df27ef)
+
+
 Your Done ! You can now try this script on the Test Net (in our case Nile Test Net). 
 You can receive TRX faucet coins at : https://nileex.io/join/getJoinPage
 
