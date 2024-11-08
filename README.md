@@ -5,9 +5,9 @@ With this Python script you will be able understand how TRX Gaz Fee SCAM Works o
 WARNING : This is only for educational purpose . I'm not responsible of bad used of this script. Just her to sensibilised about this type of Scam. I don't encourage anyone to use this code/scipt for illegal uses. 
 The scam work with TRON is this example but works with every blockchain that have a Multisig option. 
 
-PURPOSE: Some Scamers all around internet try to scam people in giving them the Private keys / 12 Words phrases of a wallet with USDT on it. The scamers didn't put TRX token to pay the transaction and it here that start the scam. Basicaly you need TRX to withdraw funds on your personal wallets. The probleme is that the Scamer have a Script that run on a server who transfert TRX that arrive on the wallet as soon you deposit. They add a layer of security that forbide any way of transfer/convertion/selling in making the scam adress MultiSig. So at the moment you transfert or buys TRX you'ree fucked up.
+PURPOSE: Some Scamers all around internet try to scam people in giving them the Private keys / 12 Words phrases of a wallet with USDT on it. The scamers didn't have TRX tokens in their wallets to pay the transaction and here starts the scam. Basicaly you need TRX to withdraw funds on your personal wallets. The probleme is that the Scamer have a Script that run on a server who transfert TRX that arrive on the wallet as soon you deposit. They add a layer of security that forbide any way of transfer/convertion/selling in making the scam adress MultiSig. So at the moment you transfert or buys TRX you'ree fucked up.
 
-This python scipt and this repos are here to help people to not be Scam and to understand how they has been scamed and how the scam works. 
+This python scipt and this repos are here to help people to not be Scam,to understand how they have been scamed and how the scam work. 
 Attached you will find the python Scrypt and an .exe of the scrypt. 
 
 
