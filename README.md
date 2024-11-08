@@ -30,7 +30,7 @@ On Windows :
 
 On MacOS : 
 - Open the Terminal.
-- Install Homebrew by running: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- Install Homebrew by running: ''' /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" '''
 - Use Homebrew to install Python: brew install python
 - Verify the installation with: python3 --version
 
