@@ -1,6 +1,6 @@
 # TRX_GasFee_SCAM
 
-With this Python script you will be able understand how TRX Gaz Fee SCAM Works on a TestNet. 
+With this Python script you will be able understand how TRX Gaz Fee SCAM works on a TestNet. 
 
 WARNING : This is only for educational purpose . I'm not responsible of bad used of this script. Just her to sensibilised about this type of Scam. I don't encourage anyone to use this code/scipt for illegal uses. 
 The scam work with TRON is this example but works with every blockchain that have a Multisig option. 
